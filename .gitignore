@@ -1,1 +1,6 @@
 ALNAE-2025.code-workspace
+*.aux
+*.log
+*.synctex.gz
+*.tex
+*.pdf
